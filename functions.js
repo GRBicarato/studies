@@ -1,22 +1,19 @@
-let valor = 20
-
+let valor = 20;
 function incrementa() {
 
     valor = 20 + 30
 
-}
-
+};
 // incrementa()
 // console.log(valor)
 
-function exibirNome(name) {
+function name(nome) {
 
-    console.log(name)
+    console.log(nome)
 
-}
-
-// exibirNome("Bicarato")
-// exibirNome("Scott")
+};
+// name("Bicarato")
+// name("Scott")
 
 function soma(number1, number2) {
 
@@ -24,8 +21,7 @@ function soma(number1, number2) {
 
     console.log(valorDosNumeros)
 
-}
-
+};
 // soma(10, 10)
 // soma(55, 5)
 
@@ -35,7 +31,6 @@ const multi = (number1, number2) => {
 
     return resMulti
 
-}
-
-const resMulti = multi(5, 5)
-console.log("o resultado é", resMulti)
+};
+// const resMulti = multi(5, 5)
+// console.log("o resultado é", resMulti)
