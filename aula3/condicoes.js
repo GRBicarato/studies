@@ -15,8 +15,16 @@ if & else = controlador de fluxo
  */
 
 const aluno = 5
+const bruno = 5
 
 if (aluno === 5) {
+    console.log("igual")
+} else {
+    console.log("diferente")
+},  
+const caio = 5
+
+if (bruno == 5) {
     console.log("igual")
 } else {
     console.log("diferente")

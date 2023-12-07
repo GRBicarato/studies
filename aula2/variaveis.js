@@ -14,5 +14,5 @@ Array []
 const numero = 30
 const texto =`O numero é ${numero}`
 /* `` para utilizar const dentro de textos */
-console.log(texto) 
+console.log(texto)
 
