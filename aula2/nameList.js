@@ -36,5 +36,5 @@ const usuario = [
 ]
 console.log(usuario[4])
 
-/* (usuario[2]) o valor dentro das [ ] significa a ficha do Array acessada 
+/* " (usuario[2]) "" o valor dentro das [ ] representa a ficha do Array acessada 
 sendo ela inciada em 0 e indo ate o infinito EX:0,1,2,3,4,5,6,7,8,9...*/
