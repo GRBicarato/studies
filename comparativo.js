@@ -23,5 +23,5 @@ if ([BA] >= 300000) {
     
 if ([CE] >= 300000) {
     console.log("cidade grande")
-}else {console.log(`cidade pequena`)}
+}else {console.log("cidade pequena")}
   
