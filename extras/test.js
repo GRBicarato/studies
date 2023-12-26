@@ -7,7 +7,7 @@ function telefone_validation(telefone) {
         return false;
     }
 
-    if (!/^(\([1-9]{2}\))9[6789]\d{7}$/.test(telefone)) {
+    if (!/^(\([1-9]{2}\))9\d{8}$/.test(telefone)) {
         console.log('Número não segue o formato de celular brasileiro');
         return false;
     }
