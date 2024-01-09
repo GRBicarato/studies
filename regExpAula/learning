@@ -1,0 +1,8 @@
+const text = 'texto de consulta';
+const regex = /texto/g;
+
+let results = text.match(regex);
+console.log(results); // deve me retorna apenas "texto" como resultado.
+
+let resultado = regex.exec(text);
+console.log(resultado); // exemplo ultilizando o regex para consulta do texto. 
